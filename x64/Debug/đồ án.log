@@ -1,0 +1,13 @@
+﻿  main.cpp
+  function.cpp
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(180,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(543,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(773,12): warning C4101: 'begin': unreferenced local variable
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(773,19): warning C4101: 'end': unreferenced local variable
+  Generating Code...
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(142): warning C4715: 'temp': not all control paths return a value
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(348): warning C4715: 'ReturnList': not all control paths return a value
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(425): warning C4715: 'ReturnSameId': not all control paths return a value
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(529): warning C4715: 'CheckTerm': not all control paths return a value
+C:\Users\Hai\source\repos\đồ án\đồ án\function.cpp(665): warning C4715: 'CheckScore': not all control paths return a value
+  đồ án.vcxproj -> C:\Users\Hai\source\repos\đồ án\x64\Debug\DO AN.exe
